@@ -1,5 +1,5 @@
 # 💫 Hi, I am Deep Bhattacharjee
-👦 I have completed my Master's in Engineering Management at Northeastern University (GPA: 3.72)<br>👨‍💻 Data Scientist by profession<br>🌱 I'm learning to build strong machine learning and data science skills<br>✉️ Reach out to me: bhattacharjee.de@northeastern.edu
+👦 I have completed my Master's in Engineering Management at Northeastern University <br>👨‍💻 Data Scientist by profession<br>🌱 I'm learning to build strong machine learning and data science skills<br>✉️ Reach out to me: bhattacharjee.de@northeastern.edu
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deep-bhattacharjee) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Deep-1997-08)
