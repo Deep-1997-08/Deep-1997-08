@@ -3,7 +3,7 @@
 # 💫 Deep Bhattacharjee
 ### **AI Systems Engineer | Tech Lead | Distributed Systems Architect**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-stackvoyage.dev-473BCE?style=for-the-badge&logo=vercel&logoColor=white)](https://stackvoyage.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-potfolio--repository.vercel.app-473BCE?style=for-the-badge&logo=vercel&logoColor=white)](https://potfolio-repository.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deep-bhattacharjee)
 [![Email](https://img.shields.io/badge/Email-deepbhattacharjee123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepbhattacharjee123@gmail.com)
 
