@@ -17,9 +17,9 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently:** Tech Lead at **Capital One**, leading multi-agent incident response automation across 1,000+ regulated banking services, scaling automated code-remediation agents across 5,000+ repositories, and cutting MTTR from days to under 3 minutes.
+- 🔭 **Current Focus:** Tech Lead driving multi-agent incident automation across 1,000+ regulated enterprise services, automated remediation pipelines, and cutting MTTR from days to under 3 minutes.
 - 🛠️ **Building:** [**StackVoyage**](https://stackvoyage.dev) — A production multi-tenant web platform ranking AI developer tools by verified real-world outcomes. Built with Next.js 16, React 19, TypeScript, Supabase, Vercel AI SDK, and 46 Postgres Row-Level Security (RLS) policies.
-- ⚙️ **Architecture & Reliability:** Orchestrating complex workflows as declarative YAML state machines, eliminating 95% of configuration drift and hardening prompt-injection defenses on enterprise telemetry.
+- ⚙️ **Architecture & Reliability:** Orchestrating complex multi-stage workflows as declarative YAML state machines, eliminating 95% of configuration drift and hardening prompt-injection defenses on enterprise telemetry.
 - 🎓 **Education:** M.S. in Engineering Management from **Northeastern University** | B.E. in Electronics & Telecommunication from **University of Mumbai (VESIT)**.
 - 💬 **Ask Me About:** Agentic developer workflows, Model Context Protocol (MCP), distributed consensus, idempotency, and full-stack AI applications.
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Open-Source Projects
 
 <table>
   <tr>
@@ -71,25 +71,49 @@
       <h3 align="center"><b>StackVoyage</b></h3>
       <p align="center"><em>AI Developer Tools Ranked by Verified Outcomes</em></p>
       <ul>
-        <li>Live multi-tenant platform architected with Next.js 16, React 19, TypeScript, and Supabase.</li>
+        <li>Live multi-tenant web platform architected with Next.js 16, React 19, TypeScript, and Supabase.</li>
         <li>Enforces strict tenant isolation via 46 Postgres row-level security (RLS) policies and 21 functions across 24 migrations.</li>
         <li>Features schema-validated streaming AI endpoints with per-route rate limiting and strict CSP.</li>
       </ul>
       <p align="center">
-        <a href="https://stackvoyage.dev"><b>🌐 Live Demo</b></a> | 
-        <a href="https://github.com/Deep-1997-08"><b>💻 GitHub</b></a>
+        <a href="https://stackvoyage.dev"><b>🌐 Live Platform</b></a> | 
+        <a href="https://github.com/Deep-1997-08"><b>💻 GitHub Profile</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><b>Multi-Agent Incident Remediation</b></h3>
-      <p align="center"><em>Automated Code Diagnostics & PR Generation</em></p>
+      <h3 align="center"><b>Precision Crop Disease Diagnosis</b></h3>
+      <p align="center"><em>Deep Learning Vision System with GCP Deployment</em></p>
       <ul>
-        <li>Autonomous remediation engine deployed across 5,000+ codebases at Capital One.</li>
-        <li>Ingests Splunk and OpenSearch telemetry, diagnosing failure mechanisms with 92% audit precision.</li>
-        <li>Proactively drafts preventative pull requests, cutting MTTR from days to under 3 minutes.</li>
+        <li>Custom-built convolutional neural network (CNN) model distinguishing crop pathologies with 97.45% accuracy.</li>
+        <li>Containerized and deployed on Google Cloud Platform with FastAPI microservices and React Native mobile clients.</li>
+        <li>Optimized inference pipelines for real-time edge agricultural diagnostics.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Deep-1997-08"><b>💻 Architecture & Code</b></a>
+        <a href="https://github.com/Deep-1997-08/Precision_Disease_Diagnosis_for_Potatoes"><b>💻 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>Anomaly-Based Intrusion Detection</b></h3>
+      <p align="center"><em>Distributed Spark ML Pipeline for Network Flows</em></p>
+      <ul>
+        <li>Large-scale intrusion detection pipeline classifying normal versus anomalous network events using the UNSW_NB15 dataset.</li>
+        <li>Engineered with Apache Spark ML Pipeline and Random Forest ensembles reaching 97.29% classification accuracy.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Deep-1997-08/Anomaly-Based-Intrusion-Detection-System"><b>💻 View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>Image Translation with Pix2Pix GAN</b></h3>
+      <p align="center"><em>Adversarial Neural Networks & Loss Optimization</em></p>
+      <ul>
+        <li>Paired image translation implementing Pix2Pix GAN with customized L1 distance and adversarial loss functions.</li>
+        <li>Benchmarked translation fidelity across quantitative FID and Inception Score metrics.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Deep-1997-08/image_to_image_translation"><b>💻 View Repository</b></a>
       </p>
     </td>
   </tr>
